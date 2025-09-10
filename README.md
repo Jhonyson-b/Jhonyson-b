@@ -1,4 +1,4 @@
-## Bem Vindo(a) ao perfil do Jhonyson Bastos! 🤩
+## Bem Vindo(a) ao perfil do Jhonyson Bastos! 
 
 <div>
   <a href="https://github.com/Jhonyson-b">
