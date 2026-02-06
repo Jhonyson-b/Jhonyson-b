@@ -2,10 +2,10 @@
 <p align="center">Desenvolvedor e entusiasta de tecnologia focado em evolução contínua.</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jhonyson-bastos-320125260/">LinkedIn</a> •
-  <a href="mailto:jhonysondev@hotmail.com">E-mail</a> •
-  <a href="https://instagram.com/jhonyson_bastos">Instagram</a> •
-  <a href="https://discord.gg/K5DhWBc4">Discord</a>
+  <a href="https://www.linkedin.com/in/jhonyson-bastos-320125260/" aria-label="Perfil do LinkedIn">LinkedIn</a> •
+  <a href="mailto:jhonysondev@hotmail.com" aria-label="Enviar e-mail para Jhonyson">E-mail</a> •
+  <a href="https://instagram.com/jhonyson_bastos" aria-label="Perfil do Instagram">Instagram</a> •
+  <a href="https://discord.gg/K5DhWBc4" aria-label="Convite do Discord">Discord</a>
 </p>
 
 ---
@@ -36,5 +36,5 @@
 </div>
 
 <p align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/jhonyson-b/jhonyson-b/output/github-contribution-grid-snake.svg" />
+  <img alt="Visualização da grade de contribuições do GitHub em animação de cobra" src="https://raw.githubusercontent.com/jhonyson-b/jhonyson-b/output/github-contribution-grid-snake.svg" />
 </p>
