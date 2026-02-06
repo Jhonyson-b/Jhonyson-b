@@ -36,5 +36,5 @@
 </div>
 
 <p align="center">
-  <img alt="Visualização da grade de contribuições do GitHub em animação de cobra" src="https://raw.githubusercontent.com/jhonyson-b/jhonyson-b/output/github-contribution-grid-snake.svg" />
+  <img alt="Visualização da atividade de contribuições no GitHub" src="https://raw.githubusercontent.com/jhonyson-b/jhonyson-b/output/github-contribution-grid-snake.svg" />
 </p>
