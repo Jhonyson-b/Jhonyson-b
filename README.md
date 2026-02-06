@@ -31,7 +31,7 @@
 <div align="left">
   <a href="https://instagram.com/jhonyson_bastos"><img alt="Badge do Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://discord.gg/K5DhWBc4"><img alt="Badge do Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="mailto:jhonysondev@hotmail.com"><img alt="Badge de e-mail" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="mailto:jhonysondev@hotmail.com"><img alt="Badge de E-mail" src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/jhonyson-bastos-320125260/"><img alt="Badge do LinkedIn" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
